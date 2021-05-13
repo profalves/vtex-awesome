@@ -1,3 +1,5 @@
+![vtex](https://vtex.com/wp-content/uploads/2020/09/IDC-MarketScape-2020-press-release-cover-1.png)
+
 # VTEX Awesome  
 
 A collection of awesome things regarding the VTEX ecosystem.
